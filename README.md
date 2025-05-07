@@ -2,7 +2,7 @@
 
 This project is a **dynamic and interactive Excel dashboard** built to analyze call center performance data. It showcases advanced Excel techniques, including data cleaning, automation, pivot tables, DAX formulas, Power Query, and interactive visualizations.
 
-![Dashboard Preview](./dashboard-preview.png)
+![Dashboard Preview](./Call Center Dashboard.png)
 
 ---
 
