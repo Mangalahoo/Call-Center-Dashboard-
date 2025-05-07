@@ -49,8 +49,3 @@ Ideal for **Call Center Managers**, **Business Analysts**, or **Operations Teams
 
 ---
 
-## 🖼️ Screenshots
-
-> Include images like the one below in your repo to show your work  
-> Example:  
-> `dashboard-preview.png` (screenshot of your dashboard)
